@@ -13,10 +13,10 @@
     "name": "Abhijeet Singh Thakur",
     "stylizedName": "<strong>Abhijeet S **Thakur**</strong>",
     "logoUrl": "images/svg/logo.svg",
-    "profilePictureUrl": "images/pictures/avatar.jpg",
+    "profilePictureUrl": "images/pictures/profile-pic-2.jpg",
 
     "locales": {
-      "en": { "role": "Web Developer" },
+      "en": { "role": "Software Developer" },
       "es": { "role": "Desarrollador Web" },
       "fr": { "role": "Développeur Web" },
       "ko": { "role": "웹 개발자" }

@@ -161,6 +161,120 @@
         },
 
         {
+            "id": "devops_deployment",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {"title": "DevOps & Deployment"}
+            },
+        
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-aws",
+                        "faColors": {"bg": "#FF9900", "fill": "#111"}
+                    },
+                    "value": 75,
+                    "dates": {
+                        "start": "03/01/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "AWS EC2",
+                            "info": "Deploying web apps on EC2 with manual configurations."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-docker",
+                        "faColors": {"bg": "#2496ED", "fill": "#FFF"}
+                    },
+                    "value": 40,
+                    "dates": {
+                        "start": "03/10/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Docker",
+                            "info": "Containerizing applications for consistent deployments."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-network-wired",
+                        "faColors": {"bg": "#2D89EF", "fill": "#EEE"}
+                    },
+                    "value": 60,
+                    "dates": {
+                        "start": "02/25/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Nginx & Reverse Proxy",
+                            "info": "Configuring Nginx as a reverse proxy for web servers."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-server",
+                        "faColors": {"bg": "#6E6E6E", "fill": "#EEE"}
+                    },
+                    "value": 70,
+                    "dates": {
+                        "start": "02/20/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Linux & Ubuntu Server Management",
+                            "info": "Managing server environments and deployments via CLI."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-shield-alt",
+                        "faColors": {"bg": "#FF3860", "fill": "#EEE"}
+                    },
+                    "value": 50,
+                    "dates": {
+                        "start": "03/05/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Security & Firewalls",
+                            "info": "Setting up security groups and firewall rules for deployments."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-github",
+                        "faColors": {"bg": "#000", "fill": "#FFF"}
+                    },
+                    "value": 40,
+                    "dates": {
+                        "start": "03/10/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "GitHub Actions",
+                            "info": "Automating CI/CD pipelines for seamless deployments."
+                        }
+                    }
+                }                
+            ]
+        },
+
+        {
             "id": "backend_programming",
             "component": "ArticleList",
             "config": {},
@@ -389,120 +503,6 @@
         },
 
         {
-            "id": "devops_deployment",
-            "component": "ArticleList",
-            "config": {},
-            "locales": {
-                "en": {"title": "DevOps & Deployment"}
-            },
-        
-            "items": [
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-aws",
-                        "faColors": {"bg": "#FF9900", "fill": "#111"}
-                    },
-                    "value": 75,
-                    "dates": {
-                        "start": "03/01/2024"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "AWS EC2",
-                            "info": "Deploying web apps on EC2 with manual configurations."
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-docker",
-                        "faColors": {"bg": "#2496ED", "fill": "#FFF"}
-                    },
-                    "value": 40,
-                    "dates": {
-                        "start": "03/10/2024"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Docker",
-                            "info": "Containerizing applications for consistent deployments."
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-network-wired",
-                        "faColors": {"bg": "#2D89EF", "fill": "#EEE"}
-                    },
-                    "value": 60,
-                    "dates": {
-                        "start": "02/25/2024"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Nginx & Reverse Proxy",
-                            "info": "Configuring Nginx as a reverse proxy for web servers."
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-server",
-                        "faColors": {"bg": "#6E6E6E", "fill": "#EEE"}
-                    },
-                    "value": 70,
-                    "dates": {
-                        "start": "02/20/2024"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Linux & Ubuntu Server Management",
-                            "info": "Managing server environments and deployments via CLI."
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-shield-alt",
-                        "faColors": {"bg": "#FF3860", "fill": "#EEE"}
-                    },
-                    "value": 50,
-                    "dates": {
-                        "start": "03/05/2024"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Security & Firewalls",
-                            "info": "Setting up security groups and firewall rules for deployments."
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-github",
-                        "faColors": {"bg": "#000", "fill": "#FFF"}
-                    },
-                    "value": 40,
-                    "dates": {
-                        "start": "03/10/2024"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "GitHub Actions",
-                            "info": "Automating CI/CD pipelines for seamless deployments."
-                        }
-                    }
-                }                
-            ]
-        },        
-
-        {
             "id": "languages",
             "component": "ArticleList",
             "config": {},
@@ -514,37 +514,6 @@
             },
 
             "items": [
-                {
-                    "icon": {
-                        "img": "images/flags/hi.png",
-                        "fa": null,
-                        "faColors": { "bg": null, "fill": null }
-                    },
-                    "value": null,
-                    "dates": { "start": null },
-                    "locales": {
-                        "en": {
-                            "title": "Hindi",
-                            "info": "Native speaker with excellent communication and writing skills.",
-                            "tags": ["Native"]
-                        },
-                        "es": {
-                            "title": "Hindi",
-                            "info": "Hablante nativo con excelentes habilidades de comunicación y escritura.",
-                            "tags": ["Nativo"]
-                        },
-                        "fr": {
-                            "title": "Hindi",
-                            "info": "Locuteur natif avec d'excellentes compétences en communication et en rédaction.",
-                            "tags": ["Natif"]
-                        },
-                        "ko": {
-                            "title": "Hindi",
-                            "info": "모국어 수준의 의사소통 및 글쓰기 능력을 보유.",
-                            "tags": ["모국어"]
-                        }
-                    }
-                },
                 {
                     "icon": {
                         "img": "images/flags/en.png",
@@ -571,6 +540,37 @@
                         },
                         "ko": {
                             "title": "영어",
+                            "info": "모국어 수준의 의사소통 및 글쓰기 능력을 보유.",
+                            "tags": ["모국어"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/flags/hi.png",
+                        "fa": null,
+                        "faColors": { "bg": null, "fill": null }
+                    },
+                    "value": null,
+                    "dates": { "start": null },
+                    "locales": {
+                        "en": {
+                            "title": "Hindi",
+                            "info": "Native speaker with excellent communication and writing skills.",
+                            "tags": ["Native"]
+                        },
+                        "es": {
+                            "title": "Hindi",
+                            "info": "Hablante nativo con excelentes habilidades de comunicación y escritura.",
+                            "tags": ["Nativo"]
+                        },
+                        "fr": {
+                            "title": "Hindi",
+                            "info": "Locuteur natif avec d'excellentes compétences en communication et en rédaction.",
+                            "tags": ["Natif"]
+                        },
+                        "ko": {
+                            "title": "Hindi",
                             "info": "모국어 수준의 의사소통 및 글쓰기 능력을 보유.",
                             "tags": ["모국어"]
                         }
