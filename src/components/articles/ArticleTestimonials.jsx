@@ -14,6 +14,8 @@ function ArticleTestimonials({ data }) {
 
     const parsedItems = parser.parseArticleItems(items)
 
+    return null;
+
     return(
         <Article className={`article-testimonials`} title={ parsedData.title }>
             <Swipeable>
