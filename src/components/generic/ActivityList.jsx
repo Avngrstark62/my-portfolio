@@ -106,11 +106,11 @@ function ActivityListItem({item, customStyle, children}) {
                     {children}
                 </div>
 
-                {item.dateStarted && (
+                {/* {item.dateStarted && (
                     <ActivityListInfoBlock icon={`fa-solid fa-stopwatch`}
                                            text={experienceLabel}
                                            shouldDisplayLargeText={Boolean(children)}/>
-                )}
+                )} */}
 
                 {item.description && (
                     <ActivityListInfoBlock icon={item.dateStarted ? `fa-solid fa-comment` : ``}
