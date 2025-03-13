@@ -6,7 +6,8 @@ This website showcases my skills, projects, and achievements as a web developer 
 
 ## 🌐 Live Demo
 
-Check out my live portfolio here: [My Portfolio]([YOUR_NETLIFY_LINK_HERE](https://portfolio-abhijeetst22.netlify.app/))  
+
+Check out my live portfolio here: ([My Portfolio](https://portfolio-abhijeetst22.netlify.app/))
 
 ## 🙌 Credits
 
