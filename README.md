@@ -7,13 +7,13 @@ This website showcases my skills, projects, and achievements as a web developer 
 ## 🌐 Live Demo
 
 
-Check out my live portfolio here: ([My Portfolio](https://portfolio-abhijeetst22.netlify.app/))
+Check out my live portfolio here: [My Portfolio](https://portfolio-abhijeetst22.netlify.app/)
 
 ## 🙌 Credits
 
 I built my portfolio by customizing an existing template. Special thanks to the original creator for their amazing work!  
 
-Template Repository: [Original Portfolio Repo]([LINK_TO_ORIGINAL_REPO](https://github.com/ryanbalieiro/react-portfolio-template))  
+Original Repository: [react-portfolio-template](https://github.com/ryanbalieiro/react-portfolio-template)
 
 ---
 
