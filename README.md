@@ -20,5 +20,5 @@ Original Repository: [ryanbalieiro/react-portfolio-template](https://github.com/
 ### ✨ Connect with Me
 
 - **Email:** thakurabhijeetsingh79@gmail.com
-- **LinkedIn:** [Your LinkedIn]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/abhijeet-singh-thakur-8869a532b/))  
-- **GitHub:** [Your GitHub]([YOUR_GITHUB_LINK](https://github.com/Avngrstark62))
+- **LinkedIn:** [Abhijeet Singh Thakur](https://www.linkedin.com/in/abhijeet-singh-thakur-8869a532b/) 
+- **GitHub:** [Avngrstark62](https://github.com/Avngrstark62)
