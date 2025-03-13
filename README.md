@@ -13,7 +13,7 @@ Check out my live portfolio here: [My Portfolio](https://portfolio-abhijeetst22.
 
 I built my portfolio by customizing an existing template. Special thanks to the original creator for their amazing work!  
 
-Original Repository: [react-portfolio-template](https://github.com/ryanbalieiro/react-portfolio-template)
+Original Repository: [ryanbalieiro/react-portfolio-template](https://github.com/ryanbalieiro/react-portfolio-template)
 
 ---
 
