@@ -182,7 +182,7 @@
                     "locales": {
                         "en": {
                             "title": "AWS EC2",
-                            "info": "Deploying web apps on EC2 with manual configurations."
+                            "info": null
                         }
                     }
                 },
@@ -199,7 +199,7 @@
                     "locales": {
                         "en": {
                             "title": "Docker",
-                            "info": "Containerizing applications for consistent deployments."
+                            "info": null
                         }
                     }
                 },
@@ -216,7 +216,7 @@
                     "locales": {
                         "en": {
                             "title": "Nginx & Reverse Proxy",
-                            "info": "Configuring Nginx as a reverse proxy for web servers."
+                            "info": null
                         }
                     }
                 },
@@ -233,7 +233,7 @@
                     "locales": {
                         "en": {
                             "title": "Linux & Ubuntu Server Management",
-                            "info": "Managing server environments and deployments via CLI."
+                            "info": null
                         }
                     }
                 },
@@ -250,7 +250,7 @@
                     "locales": {
                         "en": {
                             "title": "Security & Firewalls",
-                            "info": "Setting up security groups and firewall rules for deployments."
+                            "info": null
                         }
                     }
                 },
@@ -267,7 +267,7 @@
                     "locales": {
                         "en": {
                             "title": "GitHub Actions",
-                            "info": "Automating CI/CD pipelines for seamless deployments."
+                            "info": null
                         }
                     }
                 }                
@@ -313,23 +313,6 @@
                     "locales": {
                         "en": {
                             "title": "Express.js",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-python",
-                        "faColors": {"bg": "#306998", "fill": "#EEE"}
-                    },
-                    "value": 90,
-                    "dates": {
-                        "start": "06/20/2020"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Python 3",
                             "info": null
                         }
                     }
@@ -503,6 +486,102 @@
         },
 
         {
+            "id": "machine_learning",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {"title": "Machine Learning"}
+            },
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-python",
+                        "faColors": {"bg": "#306998", "fill": "#EEE"}
+                    },
+                    "value": 95,
+                    "dates": {
+                        "start": "01/10/2019"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Python 3",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-brain",
+                        "faColors": {"bg": "#FF6F61", "fill": "#FFF"}
+                    },
+                    "value": 85,
+                    "dates": {
+                        "start": "05/20/2019"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Scikit-learn",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-network-wired",
+                        "faColors": {"bg": "#FFCC00", "fill": "#000"}
+                    },
+                    "value": 80,
+                    "dates": {
+                        "start": "08/15/2019"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "TensorFlow/Keras",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-chart-line",
+                        "faColors": {"bg": "#76B041", "fill": "#FFF"}
+                    },
+                    "value": 90,
+                    "dates": {
+                        "start": "03/05/2019"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Pandas & NumPy",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-chart-pie",
+                        "faColors": {"bg": "#E4405F", "fill": "#FFF"}
+                    },
+                    "value": 85,
+                    "dates": {
+                        "start": "06/25/2019"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Matplotlib & Seaborn",
+                            "info": null
+                        }
+                    }
+                }
+            ]
+        },        
+
+        {
             "id": "languages",
             "component": "ArticleList",
             "config": {},
@@ -526,7 +605,7 @@
                         "en": {
                             "title": "English",
                             "info": "Fluent in both spoken and written English; confident in professional communication.",
-                            "tags": ["Native"]
+                            "tags": ["Fluent"]
                         },
                         "es": {
                             "title": "Inglés",

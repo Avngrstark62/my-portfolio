@@ -66,29 +66,22 @@
                 {
                     "categoryId": "websites",
                     "icon": {
-                        "img": "images/pictures/project-logo-1.png",
+                        "img": "images/pictures/project-logo-9.jpg",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
 
                     "links": [
-                        {"faIcon": "fa-solid fa-link", "href": "https://cash.com"}
+                        {"faIcon": "fa-solid fa-link", "href": "http://13.232.20.120"},
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/Avngrstark62/Clown"}
                     ],
-
-                    "media": {
-                        "youtubeVideo": "https://www.youtube.com/watch?v=MQe_MoJ7Iww",
-                        "screenshots": {
-                            "aspectRatio": null,
-                            "images": []
-                        }
-                    },
 
                     "locales": {
                         "en": {
-                            "title": "SmartCash",
-                            "text": "A finance website built using <b>Next.js</b>, allowing users to <b>track budgets</b> and manage their money with interactive charts and insights.",
-                            "tags": ["Next.js", "Finance", "Money"]
-                        },
+                            "title": "Clown",
+                            "text": "A social media platform built using the <b>MERN stack</b>, inspired by <b>Twitter</b> and <b>Instagram</b>, allowing users to share posts, interact with others, and build their online presence.",
+                            "tags": ["MERN", "Social Media"]
+                        },                        
                         "es": {
                             "title": "SmartCash",
                             "text": "Un sitio web financiero construido con <b>Next.js</b>, que permite a los usuarios <b>seguir presupuestos</b> y gestionar su dinero con gráficos interactivos e ideas.",
@@ -110,57 +103,14 @@
                 {
                     "categoryId": "websites",
                     "icon": {
-                        "img": "images/pictures/project-logo-5.png",
+                        "img": "images/pictures/project-logo-11.jpg",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
 
                     "links": [
-                        {"faIcon": "fa-solid fa-link", "href": "https://sweetscoops.com"}
-                    ],
-
-                    "media": {
-                        "youtubeVideo": null,
-                        "screenshots": {
-                            "aspectRatio": null,
-                            "images": []
-                        }
-                    },
-
-                    "locales": {
-                        "en": {
-                            "title": "Sweet Scoops",
-                            "text": "A recipe website built with <b>WordPress</b> and WooCommerce, featuring a rich collection of <b>dessert recipes</b> and an integrated e-commerce platform.",
-                            "tags": ["WooCommerce", "Food", "Desserts"]
-                        },
-                        "es": {
-                            "title": "Sweet Scoops",
-                            "text": "Un sitio web de recetas construido con <b>WordPress</b> y WooCommerce, con una rica colección de <b>recetas de postres</b> y una plataforma de comercio electrónico integrada.",
-                            "tags": ["WooCommerce", "Comida", "Postres"]
-                        },
-                        "fr": {
-                            "title": "Sweet Scoops",
-                            "text": "Un site de recettes construit avec <b>WordPress</b> et WooCommerce, présentant une riche collection de <b>recettes de desserts</b> et une plateforme de commerce électronique intégrée.",
-                            "tags": ["WooCommerce", "Cuisine", "Desserts"]
-                        },
-                        "ko": {
-                            "title": "Sweet Scoops",
-                            "text": "<b>WordPress</b>와 WooCommerce로 구축된 레시피 웹사이트로, 풍부한 <b>디저트 레시피</b> 모음과 통합된 전자상거래 플랫폼을 제공합니다.",
-                            "tags": ["WooCommerce", "음식", "디저트"]
-                        }
-                    }
-                },
-
-                {
-                    "categoryId": "websites",
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-guitar",
-                        "faColors": {"bg": "#111", "fill": "#EEE"}
-                    },
-
-                    "links": [
-                        {"faIcon": "fa-solid fa-link", "href": "https://rockverse.com"}
+                        {"faIcon": "fa-solid fa-link", "href": "https://crickulator.vercel.app/"},
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/Avngrstark62/Cricket-Simulator"}
                     ],
 
                     "media": {
@@ -173,9 +123,9 @@
 
                     "locales": {
                         "en": {
-                            "title": "RockVerse",
-                            "text": "A dynamic music and entertainment website developed with <b>Django</b>, showcasing rock music news, events, and <b>streaming content</b>.",
-                            "tags": ["Django", "Music", "Rock"]
+                            "title": "Cricket Simulator",
+                            "text": "A web app built using the <b>MERN stack</b> that <b>simulates cricket matches ball by ball</b> using probability. Users can choose teams, select players, and experience dynamic match progression with interactive gameplay.",
+                            "tags": ["MERN", "Cricket", "Simulation"]
                         },
                         "es": {
                             "title": "RockVerse",
@@ -191,6 +141,79 @@
                             "title": "RockVerse",
                             "text": "<b>Django</b>로 개발된 동적인 음악 및 엔터테인먼트 웹사이트로, 록 음악 뉴스, 이벤트 및 <b>스트리밍 콘텐츠</b>를 제공합니다.",
                             "tags": ["Django", "음악", "록"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "utilities",
+                    "icon": {
+                        "img": "images/pictures/project-logo-12.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://huggingface.co/spaces/avngrstark/Movie-Recommendation-System"},
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/Avngrstark62/Movie-Recommendation-System"}
+                    ],
+
+                    "locales": {
+                        "en": {
+                            "title": "Movie Recommendation System",
+                            "text": "A movie recommendation web app built with <b>Streamlit</b>, using <b>cosine similarity</b> to suggest 20 movies based on the input movie name. It fetches and displays movie posters via the <b>TMDb API</b>, with an autocomplete input for easy movie selection.",
+                            "tags": ["Python", "Machine Learning", "Movie Recommendation"]
+                        },
+                        "es": {
+                            "title": "RockVerse",
+                            "text": "Un sitio web dinámico de música y entretenimiento desarrollado con <b>Django</b>, que muestra noticias de música rock, eventos y <b>contenido en streaming</b>.",
+                            "tags": ["Django", "Música", "Rock"]
+                        },
+                        "fr": {
+                            "title": "RockVerse",
+                            "text": "Un site web de musique et de divertissement dynamique développé avec <b>Django</b>, mettant en avant des nouvelles, événements et <b>contenu en streaming</b> sur le rock.",
+                            "tags": ["Django", "Musique", "Rock"]
+                        },
+                        "ko": {
+                            "title": "RockVerse",
+                            "text": "<b>Django</b>로 개발된 동적인 음악 및 엔터테인먼트 웹사이트로, 록 음악 뉴스, 이벤트 및 <b>스트리밍 콘텐츠</b>를 제공합니다.",
+                            "tags": ["Django", "음악", "록"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/project-logo-10.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/Avngrstark62/No-Code-ML-Builder"}
+                    ],
+
+                    "locales": {
+                        "en": {
+                            "title": "No-Code ML Builder",
+                            "text": "A powerful web app built with <b>Python</b> and <b>MERN Stack</b>, enabling users to <b>build, train, and test models</b> without writing a single line of code. Perfect for rapid prototyping and experimentation.",
+                            "tags": ["MERN", "Python", "Machine Learning"]
+                        },
+                        "es": {
+                            "title": "Sweet Scoops",
+                            "text": "Un sitio web de recetas construido con <b>WordPress</b> y WooCommerce, con una rica colección de <b>recetas de postres</b> y una plataforma de comercio electrónico integrada.",
+                            "tags": ["WooCommerce", "Comida", "Postres"]
+                        },
+                        "fr": {
+                            "title": "Sweet Scoops",
+                            "text": "Un site de recettes construit avec <b>WordPress</b> et WooCommerce, présentant une riche collection de <b>recettes de desserts</b> et une plateforme de commerce électronique intégrée.",
+                            "tags": ["WooCommerce", "Cuisine", "Desserts"]
+                        },
+                        "ko": {
+                            "title": "Sweet Scoops",
+                            "text": "<b>WordPress</b>와 WooCommerce로 구축된 레시피 웹사이트로, 풍부한 <b>디저트 레시피</b> 모음과 통합된 전자상거래 플랫폼을 제공합니다.",
+                            "tags": ["WooCommerce", "음식", "디저트"]
                         }
                     }
                 }
