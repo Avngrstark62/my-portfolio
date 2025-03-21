@@ -79,7 +79,7 @@
                     "locales": {
                         "en": {
                             "title": "Clown",
-                            "text": "A social media platform built using the <b>MERN stack</b>, inspired by <b>Twitter</b> and <b>Instagram</b>, allowing users to share posts, interact with others, and build their online presence.",
+                            "text": "A social media platform built using the <b>MERN stack</b>, inspired by <b>Twitter</b> and <b>Instagram</b>, allowing users to share posts, interact with others. It also has a real time chat feature",
                             "tags": ["MERN", "Social Media"]
                         },                        
                         "es": {

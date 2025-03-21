@@ -240,23 +240,6 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-shield-alt",
-                        "faColors": {"bg": "#FF3860", "fill": "#EEE"}
-                    },
-                    "value": 50,
-                    "dates": {
-                        "start": "03/05/2024"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Security & Firewalls",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
                         "fa": "fa-brands fa-github",
                         "faColors": {"bg": "#000", "fill": "#FFF"}
                     },

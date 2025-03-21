@@ -101,7 +101,7 @@
                          
                     },
                     "locales": {
-                        "en": {"text": "<p>I’m a dedicated developer with a hands-on, project-driven approach to learning and growth. I thrive on solving complex problems, continuously pushing myself to improve through building real-world applications and mastering modern development practices.</p><p>I’m committed to delivering high-quality work and am always eager to collaborate and learn from others to achieve the best results.</p>"},
+                        "en": {"text": "<p>I’m a web developer who learns by building real-world projects. I focus on solving problems, improving my skills, and keeping up with modern development practices.</p><p>My best project is <strong><a href='https://clownapp.fun/'>Clown</a></strong>, a social media platform designed to connect users through engaging features. Check it out!</p><p>I’m committed to writing clean, efficient code and always open to learning and collaborating to build better software.</p>"},
                         "es": {
                             "text": "<p>Soy un desarrollador dedicado con un enfoque práctico y orientado a proyectos para el aprendizaje y el crecimiento. Me encanta resolver problemas complejos, esforzándome continuamente por mejorar a través de la creación de aplicaciones del mundo real y el dominio de prácticas de desarrollo modernas.</p><p>Estoy comprometido a ofrecer un trabajo de alta calidad y siempre estoy dispuesto a colaborar y aprender de los demás para lograr los mejores resultados.</p>"},
                           "fr": {
